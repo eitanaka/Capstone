@@ -1,1 +1,1 @@
-# Capstone
+# Self-Organizing Map
